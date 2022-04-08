@@ -23,9 +23,6 @@
     <a href="https://www.python.org/about/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
-     <a href="https://www.djangoproject.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40" />
-    </a>
     <a href="https://kotlinlang.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" />
     </a>
