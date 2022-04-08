@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 
-## Nice meeting you, I'm Júlio!
+## Pleased to meet you, I'm Júlio!
 <p align="left"> 
   <ul>
       <li>🌱 I’m currently learning more about Web and Android development.</li>
