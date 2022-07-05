@@ -77,6 +77,6 @@
 <h4 align="center">
     <details>
         <summary>Click for more...</summary>
-        <img src="https://media3.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=790b76114bbf0c76a21104596a57f5c2ce94094234e91f29&rid=giphy.gif&ct=s" width="10px"></img>
+        <img src="https://media3.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=790b76114bbf0c76a21104596a57f5c2ce94094234e91f29&rid=giphy.gif&ct=s" width="100" height="100"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliogcm&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
