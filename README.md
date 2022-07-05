@@ -7,7 +7,7 @@
   <ul>
       <li>🌱 I’m currently learning more about Web and Android development.</li>
       <li>👯 I’m looking to collaborate on new projects.</li>
-      <li>☄️ Hunger for challenges to improve my skills.</li>
+      <li>☄️ Hunger for challenges.</li>
   </ul>
 </p>
 
