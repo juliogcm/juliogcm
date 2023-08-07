@@ -5,7 +5,7 @@
 ## Pleased to meet you, I'm Júlio!
 <p align="left"> 
   <ul>
-      <li>🌱 I’m currently learning more about Web and Android development.</li>
+      <li>🌱 I’m currently working with .NET framework</li>
       <li>👯 I’m looking to collaborate on new projects.</li>
       <li>☄️ Hunger for challenges.</li>
   </ul>
@@ -17,17 +17,14 @@
   🚀 Skills:
 
 <p align="left">
-    <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://github.com/railwayapp/devicons/blob/main/static/i/csharp.svg" alt="csharp" width="40" height="40" />
+    </a>
+    <a href="https://dotnet.microsoft.com/pt-br/">
+        <img src="https://github.com/railwayapp/devicons/blob/main/static/i/dot-net.svg" alt="dotnet" width="40" height="40" />
     </a>
     <a href="https://www.python.org/about/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://kotlinlang.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" />
-    </a>
-    <a href="https://developer.android.com/studio/intro">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40" />
     </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40" />
@@ -38,17 +35,23 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://docs.oracle.com/javase/tutorial/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    <a href="https://angular.io/">
+        <img src="https://github.com/railwayapp/devicons/blob/main/static/i/angularjs.svg" alt="angular" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org/about/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
     </a>
-    <a href="https://www.slack.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40" />
+    <a href="https://www.docker.com/">
+        <img src="https://github.com/railwayapp/devicons/blob/main/static/i/docker.svg" alt="docker" width="40" height="40" />
     </a>
     <a href="https://git-scm.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />
+    </a>
+    <a href="https://gitlab.com/">
+        <img src="https://github.com/railwayapp/devicons/blob/main/static/i/gitlab.svg" alt="gitlab" width="40" height="40" />
+    </a>
+    <a href="https://www.postman.com/">
+        <img src="https://github.com/railwayapp/devicons/blob/main/static/i/postman.svg" alt="postman" width="40" height="40" />
     </a>
 </p>
 
