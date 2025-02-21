@@ -44,14 +44,8 @@
     <a href="https://www.docker.com/">
         <img src="https://github.com/railwayapp/devicons/blob/main/static/i/docker.svg" alt="docker" width="40" height="40" />
     </a>
-    <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" />
-    </a>
     <a href="https://gitlab.com/">
         <img src="https://github.com/railwayapp/devicons/blob/main/static/i/gitlab.svg" alt="gitlab" width="40" height="40" />
-    </a>
-    <a href="https://www.postman.com/">
-        <img src="https://github.com/railwayapp/devicons/blob/main/static/i/postman.svg" alt="postman" width="40" height="40" />
     </a>
 </p>
 
